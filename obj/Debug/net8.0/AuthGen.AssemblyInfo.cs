@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86d744740ecd135c21e8f90ad1a4c94467ecef9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1825c70748aef51dc8357ac5094d04030971c8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
