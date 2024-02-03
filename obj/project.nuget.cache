@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T025aM5UJ5XkHPDD7xHgeZeVGujOYKMq2jIulTICQJ+jUU046sE6AVGoOqnLzq++Sx3pabRgcNHcFF9eptCWQw==",
+  "dgSpecHash": "u1p5gaOJxwHxcwk+MM7NeriRHjjYTTMJvh8V2cAVAwxLET3MBdzHAvtH00GAAHWh8Nl2dZa9vSKN3LgltgpsaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\George Too\\source\\repos\\AuthGen\\AuthGen.csproj",
+  "projectFilePath": "C:\\Users\\George Too\\source\\repos\\AuthGen\\Authentication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
